@@ -137,7 +137,7 @@ Due to GitHub file size limitations, trained model files are hosted externally.
 
 Download trained models here:
 
-:contentReference[oaicite:0]{index=0}
+[:contentReference[oaicite:0]{index=0}](https://drive.google.com/drive/folders/1tz4fksJ8X4Q1QJ637jATctXT13CZfA6I?usp=drive_link)
 
 ---
 
