@@ -109,8 +109,7 @@ NeuroScope/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NNA-4-015.git
-```
+git clone https://github.com/Nourdeen26/NNA-4-015.git```
 
 ## Navigate to the project directory
 
