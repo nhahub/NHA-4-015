@@ -1,0 +1,13 @@
+tensorflow
+torch
+torchvision
+streamlit
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+pillow
+seaborn
+jupyter
+notebook
