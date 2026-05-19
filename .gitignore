@@ -1,0 +1,11 @@
+venv/
+saved_model/
+__pycache__/
+.ipynb_checkpoints/
+
+*.keras
+*.h5
+*.pth
+*.db
+*.zip
+*.pyc
